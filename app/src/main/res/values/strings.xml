@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sonhar Acordado</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="results"></string>
+
+    <string name="band">Programa</string>
+    <string name="music">Instituição</string>
+    <string name="vol">Voluntários</string>
+    <string name="cri">Crianças</string>
+</resources>
